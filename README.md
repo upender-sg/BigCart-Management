@@ -1,6 +1,6 @@
-# bigcart
+# BigCart - Management
 
 
-shoping cart application
-rest built on python django rest framework
+Managing shoping cart application with 
+ python django rest framework
 
