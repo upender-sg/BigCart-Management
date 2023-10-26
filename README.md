@@ -2,5 +2,5 @@
 
 
 Managing shoping cart application with 
- python django rest framework
+ python django rest framework........
 
